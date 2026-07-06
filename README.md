@@ -4,6 +4,12 @@
 **Engine:** Unity (URP) · third-person 3D
 **Modules covered:** M6 (Building 3D Worlds) + M7 (Harvesting & Player Interaction)
 
+## 🎬 Gameplay Demo
+
+[![Graveyard Keeper — gameplay demo](https://img.youtube.com/vi/i2hTi3xACW0/maxresdefault.jpg)](https://youtu.be/i2hTi3xACW0)
+
+▶️ **Watch the gameplay demo:** https://youtu.be/i2hTi3xACW0
+
 > You are the night keeper of an old graveyard. Before dawn, work the grounds:
 > chop wood, mine stone, and gather pumpkins scattered among the graves while
 > ghosts drift between the tombstones and the sky slowly turns toward morning.
